@@ -2,3 +2,5 @@
 Introduction to git and github
 Lane Tech
 Samuel Valladres
+web development
+chicago, ill
